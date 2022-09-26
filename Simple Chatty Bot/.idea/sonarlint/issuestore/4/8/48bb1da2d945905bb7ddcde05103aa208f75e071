@@ -1,0 +1,22 @@
+
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(úØ§ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôâ˜Êşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·‚ëÀûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ş›»Óşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê üúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àìçŒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊŒîø
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(àó¹™
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(„ÿí¼
+g
+java:S3457*"Q%n should be used in place of \n to produce the platform-specific line separator.(‰şãù
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(‰şãù
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(î±¸
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ô½Ê²
+N	java:S1061"9Replace this use of System.out or System.err by a logger.( ûŞú
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ıÖ 
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Õ‚ì«
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ÈÌ¬ñüÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(›áª”
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(øßà¼
